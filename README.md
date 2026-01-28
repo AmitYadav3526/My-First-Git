@@ -1,4 +1,4 @@
 # My-First-Git
-<h1 style="color:red;">hello</h1>
-
+<h1>hello</h1>
+<h2>welcome our planet</h2>
 
